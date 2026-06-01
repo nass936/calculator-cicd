@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: nass936/calculator:latest
+          tags: nassim936/calculator:latest
